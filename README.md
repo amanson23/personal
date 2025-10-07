@@ -1,2 +1,2 @@
 # personal
-My personal portfolio
+My Personal Portfolio
